@@ -1,4 +1,4 @@
-package io.qbeat;
+package com.andreasloizou;
 
 import java.util.HashMap;
 import java.util.Map;

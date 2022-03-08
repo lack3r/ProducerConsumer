@@ -1,4 +1,4 @@
-package io.qbeat;
+package com.andreasloizou;
 
 /**
  * Immutable class that holds the a word (String), along with the location of where that word was located.
